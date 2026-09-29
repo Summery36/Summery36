@@ -19,9 +19,11 @@
 -->
 
 <!-- ===== 一、顶部动态横幅（波浪 + 文字闪烁） ===== -->
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Eric&desc=desc=Post-training%20%26amp%3B%20RL%20for%20LLM%20Agents&fontSize=52&descSize=18&fontColor=ffffff&descColor=e6edf3&animation=twinkling&fontAlignY=34&descAlignY=54" width="100%" alt="header"/>
 </p>
+-->
 
 <!-- ===== 二、打字机滚动字幕 ===== -->
 <h3 align="center">
