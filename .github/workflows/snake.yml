@@ -1,0 +1,55 @@
+# ============================================================
+#  贪吃蛇贡献图（GitHub Contribution Snake）
+#
+#  放在哪里：Summery36/Summery36 仓库的 .github/workflows/snake.yml
+#  即完整路径为：Summery36/Summery36/.github/workflows/snake.yml
+#
+#  做什么：每天自动把贡献格子渲染成贪吃蛇动画 SVG，
+#         推送到本仓库的 output 分支。
+#
+#  注意：README 里的 <picture> 引用的是 output 分支上的文件，
+#        所以必须先让这个 Action 成功跑一次，图标才会出现。
+#        首次运行：仓库 → Actions → 选中 "Generate Snake" → Run workflow
+#
+#  权限：仓库 → Settings → Actions → General → Workflow permissions
+#        需要选中 "Read and write permissions"，否则推送会失败。
+# ============================================================
+
+name: Generate Snake
+
+on:
+  # 每 24 小时自动跑一次（UTC 0 点，即北京时间 8 点）
+  schedule:
+    - cron: "0 0 * * *"
+  # 允许手动触发
+  workflow_dispatch:
+  # 推送到 main 时也跑一次
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: update snake [skip ci]"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
