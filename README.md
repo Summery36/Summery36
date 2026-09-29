@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Summery36&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <img src="https://hits.sh/github.com/Summery36.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6" alt="Profile Views"/>
   <a href="https://github.com/Summery36?tab=followers"><img src="https://img.shields.io/github/followers/Summery36?style=for-the-badge&logo=github&label=Followers&color=2eb85c" alt="followers"/></a>
   <a href="https://www.xiaohongshu.com/user/profile/66b39cbf000000001d023c84"><img src="https://img.shields.io/badge/Xiaohongshu-%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-FF2442?style=for-the-badge&logoColor=white" alt="Xiaohongshu"/></a>
 </p>
