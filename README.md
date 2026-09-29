@@ -27,7 +27,7 @@
 
 <!-- ===== 二、打字机滚动字幕 ===== -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=LLM+Post-training+%7C+SFT+%C2%B7+GRPO+%C2%B7+Reward+Design;Agentic+RL+%7C+Multi-turn+Tool+Use+%26+Long-horizon;Educational+AI+%7C+Verifiable+Interaction+Environments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1400&color=58A6FF&center=true&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B+I%27m+Eric;M.Sc.+Student+%40+East+China+Normal+University;Post-training+%26+RL+for+LLM+Agents;Educational+AI+%26+Tool-use" alt="Typing SVG" />
 </h3>
 
 <!-- ===== 三、基本信息 ===== -->
