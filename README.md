@@ -164,8 +164,6 @@
 </p>
 
 
-  🐍 贪吃蛇贡献图：需先跑一次 GitHub Action 生成，见 .github/workflows/snake.yml
-  Action 首次运行成功后，取消下面这段注释即可显示。
 
 <p align="center">
   <picture>
