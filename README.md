@@ -163,7 +163,7 @@
   <img src="https://streak-stats.demolab.com/?user=Summery36&theme=tokyonight&hide_border=true&date_format=Y.n.j" height="165" alt="GitHub Streak"/>
 </p>
 
-<!--
+
   🐍 贪吃蛇贡献图：需先跑一次 GitHub Action 生成，见 .github/workflows/snake.yml
   Action 首次运行成功后，取消下面这段注释即可显示。
 
@@ -174,7 +174,7 @@
     <img src="https://raw.githubusercontent.com/Summery36/Summery36/output/github-snake.svg" alt="contribution snake"/>
   </picture>
 </p>
--->
+
 
 ---
 
