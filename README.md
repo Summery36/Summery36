@@ -34,12 +34,14 @@
 <p align="center">
   🎓 华东师范大学 · 大数据技术与工程 · 硕士在读<br>
   🔬 研究方向：大语言模型后训练（SFT / RL / Reward）与 LLM Agent<br>
-  📧 <a href="mailto:1127232045@qq.com">1127232045@qq.com</a>
+  📧 <a href="mailto:1127232045@qq.com">1127232045@qq.com</a> ｜
+  🌐 <a href="https://summery36.github.io">summery36.github.io</a>
 </p>
 
 <p align="center">
   <img src="https://hits.sh/github.com/Summery36.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6" alt="Profile Views"/>
   <a href="https://github.com/Summery36?tab=followers"><img src="https://img.shields.io/github/followers/Summery36?style=for-the-badge&logo=github&label=Followers&color=2eb85c" alt="followers"/></a>
+  <a href="https://summery36.github.io"><img src="https://img.shields.io/badge/Website-summery36.github.io-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website"/></a>
   <a href="https://www.xiaohongshu.com/user/profile/66b39cbf000000001d023c84"><img src="https://img.shields.io/badge/Xiaohongshu-%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-FF2442?style=for-the-badge&logoColor=white" alt="Xiaohongshu"/></a>
 </p>
 
@@ -184,6 +186,9 @@
 <p align="center">
   <a href="mailto:1127232045@qq.com">
     <img src="https://img.shields.io/badge/Email-1127232045%40qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://summery36.github.io">
+    <img src="https://img.shields.io/badge/Website-summery36.github.io-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website"/>
   </a>
   <a href="https://github.com/Summery36">
     <img src="https://img.shields.io/badge/GitHub-Summery36-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
